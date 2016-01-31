@@ -9,7 +9,7 @@
 	- [ ] 超越智商
 	- [ ] 机器人叛乱
 	- [ ] 快思慢想
-	- [ ] 改变
+	- [x] [改变](https://jeremiahzhang.github.io/mind/2016/01/19/change.html)
 	- [ ] 穷查理宝典
 - 婚恋 3 
 	- [ ] 人情与面子
@@ -20,23 +20,27 @@
 	- [ ] 国史大纲
 	- [ ] 史记
 - 人生 4
-	- [ ] 生命是长期而持续的累积 
-	- [ ] 青年的四个大梦
+	- [x] [生命是长期而持续的累积](https://jeremiahzhang.github.io/mind/2016/01/18/dilemma-and-selection.html)
+	- [x] [青年的四个大梦](https://jeremiahzhang.github.io/mind/2016/01/20/4-great-dreams-of-youth.html)
 	- [ ] 人生十论
-	- [ ] 经验的疆界
 - 自传 3 
-	- [ ] Surprised by Joy
+	- [x] Surprised by Joy （原著太难啃了）
 	- [ ] 追寻记忆的痕迹
 	- [ ] 我生活的种种模式
 - 职业 2
 	- [ ] HBR's 10 Must Reads on Managing Yourself 
 	- [ ] 生涯咨询与辅导
+	- [ ] 经验的疆界
 
 ### 随意阅读 ###
 
-- [ ]
-- [ ]
-- [ ]
+- 传记
+	- [x] 哥尔得斯密斯传
+- 婚恋
+	- [ ] 做你情侣的好情侣
+	- [x] [走出婚姻的误区](http://book.douban.com/subject/25909976/)
+- 路易斯
+	- [x] [裸颜](http://book.douban.com/subject/25707591/)
 
 ## 成长 ##
 
