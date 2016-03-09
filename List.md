@@ -5,7 +5,7 @@
 [我的2016阅读清单](http://www.douban.com/doulist/43579318/)
 
 - Mind 6
-	- [ ] 如何阅读一本书
+	- [x] 如何阅读一本书 1st
 	- [ ] 超越智商
 	- [ ] 机器人叛乱
 	- [ ] 快思慢想
@@ -41,6 +41,14 @@
 	- [x] [走出婚姻的误区](http://book.douban.com/subject/25909976/)
 - 路易斯
 	- [x] [裸颜](http://book.douban.com/subject/25707591/)
+	- [x] [给孩子们的信](http://book.douban.com/subject/3838032/) 
+	- [x] [四种爱](http://book.douban.com/subject/25707606/)
+- 费曼
+	- [x] [费曼手札](http://book.douban.com/subject/3297608/) 
+- MindHacker
+	- [x] [打破自我的标签](http://book.douban.com/subject/26677905/)
+	- [ ]把时间当作朋友
+	- [ ]青年王阳明
 
 ## 成长 ##
 
