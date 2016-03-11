@@ -2,17 +2,17 @@
 
 ### I7 译文
 
-1.最后，作为不同阅读行为的自然结果，阅读的内容清晰持久地显现在少数人的脑海中，多数人却不然。
-2.前者在独处时重复咀嚼他们钟爱的篇章诗句。
-3.书中的场景、个性(注：翻译为人物或许更好)为他们提供了一种象征，他们由此诠释或积累自身的经验，
-4.经常详尽地彼此探讨；而后者很少想到、谈到他们的阅读。
+1.最后，作为不同阅读行为的自然结果，阅读的内容清晰持久地显现在少数人的脑海中，多数人却不然。  
+2.前者在独处时重复咀嚼他们钟爱的篇章诗句。  
+3.书中的场景、个性(注：翻译为人物或许更好)为他们提供了一种象征，他们由此诠释或积累自身的经验，  
+4.经常详尽地彼此探讨；而后者很少想到、谈到他们的阅读。  
 
 ### 试译：
 
-1.Finally, as the natural corollary of different reading behavior, the contents xxx in the mind of the less clearly and continuously, but it did not happen to the majority.
-2.The fronter review their faviourate verses and chapters when they are alone.
-3.The scene and personality in book provide an iconography in which they can explain theirselves or accumulate their experience, and often argue with each other xxx.
-4.But the other seldom think and talk about their reading.
+1.Finally, as the natural corollary of different reading behavior, the contents xxx in the mind of the less clearly and continuously, but it did not happen to the majority.  
+2.The fronter review their faviourate verses and chapters when they are alone.  
+3.The scene and personality in book provide an iconography in which they can explain theirselves or accumulate their experience, and often argue with each other xxx.  
+4.But the other seldom think and talk about their reading.  
 
 ### 原文：
 
@@ -28,4 +28,36 @@
 - 词汇量得加强
 	- 用英语咯
 
-Wednesday, 09. March 2016 11：50-12:53PM 纸质 to here 
+## Review
+
+- Finally, as a natural result of **xx**different behavior in reading, what they have read constantly and **xx perminently** present to their mind of the few, but not to that of the many.  
+- The fronter mouth over their favourite lines and stanzas **xx**.
+- **xx The scenes** and characters from books provide them with an iconography by which they **xx explain** or **xx accumulate** their own experience.
+- They talk to one another about **xx the** books, often and at length.
+- But the latter seldom think and talk of their reading. 
+
+Wednesday, 09. March 2016 11：50-12:53PM 纸质 to here
+Friday, 11. March 2016 08:20-08:46PM Review in paper and then update here and checkout. 26mins
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
