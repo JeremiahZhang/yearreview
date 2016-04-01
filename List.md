@@ -47,9 +47,14 @@
 	- [x] [费曼手札](http://book.douban.com/subject/3297608/) 
 - MindHacker
 	- [x] [打破自我的标签](http://book.douban.com/subject/26677905/)
-	- [ ]把时间当作朋友
-	- [ ]青年王阳明
-
+	- [x] 七年就是一辈子
+	- [x] 把时间当作朋友
+	- [x] 人人都能用英语
+	- [x] 青年王阳明
+	- [ ] 奇特的一生
+	- [ ] 修学一助重订本
+	- [ ] beyond feelings
+	
 ## 成长 ##
 
 - 技术
