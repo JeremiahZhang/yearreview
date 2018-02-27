@@ -7,9 +7,11 @@
  
 ## (￣▽￣)
 
-- 新浪微博:[@雷雨Jeremiah](http://weibo.com/1784386944/profile?topnav=1&wvr=6)
-- Github:[@JeremiahZhang](https://github.com/JeremiahZhang)
-- 个人博客:[Renew Mind Lab](http://jeremiahzhang.github.io/)
+- 新浪微博:[@Anifacc](http://weibo.com/1784386944/profile?topnav=1&wvr=6)
+- Github:[@JeremyAnifacc](https://github.com/JeremiahZhang)
+- 博客:
+  - [Renew Mind Lab](http://jeremiahzhang.github.io/)
+  - [α2Ω](https://anifacc.github.io/)
 
 ## 参考
 
